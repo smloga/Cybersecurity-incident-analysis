@@ -5,7 +5,7 @@ This project is a simulated cybersecurity incident investigation focused on iden
 
 Using Linux command-line tools, I analyzed authentication logs to identify repeated failed login attempts followed by successful access from a single IP address. I also reviewed Suricata IDS alerts to detect network scanning activity targeting services such as SSH and MySQL, indicating reconnaissance behavior. By correlating events across multiple log sources, I built a structured timeline of the attack sequence, from initial scanning and brute-force attempts to successful logins and potential system compromise.
 
-This project reflects my cybersecurity skill stack developed through coursework in Intro to Cybersecurity (RIZE), Network and System Security (RIZE), and Intro to Programming. It demonstrates hands-on experience with log analysis, network security monitoring concepts, and security frameworks including NIST guidance and MITRE ATT&CK.
+This project reflects my cybersecurity skill stack developed through coursework in Intro to Cybersecurity , Network and System Security , and Intro to Programming. It demonstrates hands-on experience with log analysis, network security monitoring concepts, and security frameworks including NIST guidance and MITRE ATT&CK.
 
 Key skills demonstrated include:
 
